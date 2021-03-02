@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+h1 {
+  margin: 50px 0 40px 0 !important;
+}
+
+a {
+  text-decoration: none !important;
+}
